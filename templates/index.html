@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Flasky{% endblock %}
+
+{% block page_content %}
+<div class="page-header">
+	<h1><b>Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}! Welcome to Lab3 Docker!</b></h1>
+	{% if email %}
+		{% if 'utoronto' in email %}
+		<h1><b>Your UofT Email is {{ email }}</b></h1>{% else %}<h1><b>Please use your UofT email{% endif %}</b></h1>
+	{% endif %}
+
+</div>
+{{ wtf.quick_form(form) }}
+{% endblock %}
