@@ -13,4 +13,5 @@ Application runs locally </br>
 Activity 4: </br>
 Docker Image built and run locally </br>
 ![a42](https://github.com/EngRia/ECE444-F2023-Lab3/assets/144556073/d71769f5-200f-4d1a-a7ae-ec6d321a1f3d)</br>
+![A4](https://github.com/EngRia/ECE444-F2023-Lab3/assets/144556073/6ce35e06-7fae-4d82-b0f8-c333d46d916b)</br>
 ![a43](https://github.com/EngRia/ECE444-F2023-Lab3/assets/144556073/b98eebb4-848a-419a-82cf-921c1c7c9a09)</br>
